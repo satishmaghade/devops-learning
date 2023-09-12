@@ -7,6 +7,6 @@
     vpc_subnet_id: subnet-0a8d2f115f3d6043c
     network:
       assign_public_ip: true
-      security_group: default
+      security_group: allow_all
     tags:
       foo: bar
